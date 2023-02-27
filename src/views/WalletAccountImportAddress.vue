@@ -9,7 +9,7 @@
         DISCLAIMER:
       </h4>
       <div class="alert-body">
-        <span>PPNV Service Explorer is maintained by the community, Everyone could add a chain to PPNV Service Explorer. Some of those blockchains are not fully tested, Use at your own risk.</span>
+        <span>Meowment Explorer is maintained by the community, Everyone could add a chain to Meowment Explorer. Some of those blockchains are not fully tested, Use at your own risk.</span>
       </div>
     </b-alert>
     <form-wizard
