@@ -9,7 +9,7 @@ export const $themeBreakpoints = {}
 // APP CONFIG
 export const $themeConfig = {
   app: {
-    appName: 'MEOWMENT', // Will update name in navigation menu (Branding)
+    appName: 'MEOWMENT EXPLORER', // Will update name in navigation menu (Branding)
     // eslint-disable-next-line global-require
     appLogoImage: '/logox.svg', // Will update logo in navigation menu (Branding)
   },
