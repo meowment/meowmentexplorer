@@ -6,7 +6,7 @@
         class="ml-25 font-weight-bolder"
         href="#"
         target="_blank"
-      >PPNV Service</b-link>
+      >Meowment Planets</b-link>
     </span>
 
     <router-link
