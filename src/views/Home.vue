@@ -7,16 +7,16 @@
         <h1
           class="text-primary display-4 font-weight-bolder d-none d-md-block"
         >
-          Meowment Explorer<small class="flow-left">power</small>
+          Meowment Planets Explorer<small class="flow-left">beta</small>
         </h1>
       </div>
     </b-link>
 
     <p class="mb-1">
-      Stake and earn with Meowment 🐈‍⬛
+      Best Uptime 24/7 Monitoring | Stake and Earn with Meowment 🐈‍⬛
     </p>
     <h2 class="mb-3">
-      Cosmos Ecosystem Blockchains ⚛️
+      COSMOS ECOSYSTEM BLOCKCHAINS #IBCGANG ⚛️
     </h2>
 
     <div>
