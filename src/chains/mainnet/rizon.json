@@ -1,0 +1,17 @@
+{
+    "chain_name": "rizon",
+    "api": ["https://api.rizon.ppnv.space"],
+    "rpc": ["http://rpc.rizon.ppnv.space:19657"],
+    "sdk_version": "v0.45.6",
+    "coin_type": 118,
+    "min_tx_fee": 8000,
+    "assets": [{
+        "base": "uatolo",
+        "symbol": "ATOLO",
+        "exponent": 6,
+        "coingecko_id": "rizon", 
+        "logo": "/logos/ViCAztjB_400x400.jpg"
+    }],
+    "addr_prefix": "rizon",
+    "logo": "/logos/ViCAztjB_400x400.jpg"
+}

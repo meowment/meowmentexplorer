@@ -1,0 +1,15 @@
+{
+    "chain_name": "okp4",
+    "api": ["https://api.okp.ppnv.space"],
+    "rpc": ["http://rpc.okp.ppnv.space:36657"],
+    "coin_type": 118,
+    "min_tx_fee": 200,
+    "addr_prefix": "UKNOW",
+    "logo": "/logos/GK12zUWJ_400x400.jpg",
+    "assets": [{
+        "base": "UKNOW",
+        "symbol": "KNOW",
+        "exponent": 6,
+        "logo": "/logos/GK12zUWJ_400x400.jpg"
+    }]
+}

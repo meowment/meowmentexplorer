@@ -1,0 +1,19 @@
+{
+    "chain_name": "provenance",
+    "coingecko": "",
+    "api": "https://api.provenance.ppnv.space",
+    "rpc": "http://rpc.provenance.ppnv.space:15657",
+    "snapshot_provider": "",
+    "sdk_version": "0.46.1",
+    "coin_type": 505,
+    "min_tx_fee": 800000000,
+    "addr_prefix": "pb",
+    "logo": "/logos/W2HPCAxw_400x400.jpg",
+    "assets": [{
+        "base": "nhash",
+        "symbol": "HASH",
+        "exponent": 9,
+        "coingecko_id": "provenance-blockchain", 
+        "logo": "/logos/W2HPCAxw_400x400.jpg"
+    }]
+}

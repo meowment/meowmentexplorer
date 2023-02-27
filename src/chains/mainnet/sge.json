@@ -1,0 +1,18 @@
+{
+  "chain_name": "sge",
+  "api": ["https://api.sge.ppnv.space"],
+  "rpc": ["http://rpc.sge.ppnv.space:13657"],
+  "sdk_version": "0.45.5",
+  "coin_type": 118,
+  "addr_prefix": "usge",
+  "min_tx_fee": 5000,
+  "logo": "/logos/sge.jpg",
+  "assets": [
+    {
+      "symbol": "SGE",
+      "base": "usge",
+      "exponent": 6,
+      "logo": "/logos/sge.jpg"
+    }
+  ]
+}

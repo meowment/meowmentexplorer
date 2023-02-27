@@ -1,0 +1,15 @@
+{
+    "chain_name": "Konstellation",
+    "api": ["https://api.knstld.ppnv.space"],
+    "rpc": ["http://rpc.knstld.ppnv.space:31657"],
+    "coin_type": 118,
+    "min_tx_fee": 200,
+    "addr_prefix": "udarc",
+    "logo": "/logos/HZuhQU5q_400x400.jpg",
+    "assets": [{
+        "base": "udarc",
+        "symbol": "darc",
+        "exponent": 6,
+        "logo": "/logos/HZuhQU5q_400x400.jpg"
+    }]
+}

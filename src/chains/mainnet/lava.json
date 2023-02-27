@@ -1,0 +1,15 @@
+{
+    "chain_name": "lava",
+    "api": ["https://api.lava.ppnv.space"],
+    "rpc": ["http://rpc.lava.ppnv.space"],
+    "coin_type": 118,
+    "min_tx_fee": 200,
+    "addr_prefix": "lava@",
+    "logo": "/logos/lava.jpg",
+    "assets": [{
+        "base": "ulava",
+        "symbol": "lava",
+        "exponent": 6,
+        "logo": "/logos/lava.jpg"
+    }]
+}

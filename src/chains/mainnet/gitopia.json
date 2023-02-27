@@ -1,0 +1,19 @@
+{
+    "chain_name": "Gitopia",
+    "coingecko": "",
+    "api": "https://api.gitopia.ppnv.space",
+    "rpc": "http://rpc.gitopia.ppnv.space:28657",
+    "snapshot_provider": "",
+    "sdk_version": "0.46.4",
+    "coin_type": 118,
+    "min_tx_fee": 5000,
+    "addr_prefix": "gitopia",
+    "logo": "/logos/0r9YJOJW_400x400.png",
+    "assets": [{
+        "base": "utlore",
+        "symbol": "TLORE",
+        "exponent": 6,
+        "coingecko_id": "",
+        "logo": "/logos/0r9YJOJW_400x400.png"
+    }]
+}

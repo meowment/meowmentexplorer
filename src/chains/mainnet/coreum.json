@@ -1,0 +1,20 @@
+{
+  "chain_name": "coreum",
+  "coingecko": "",
+  "api": "https://api.coreum.ppnv.space",
+  "rpc": "http://rpc.coreum.ppnv.space:43657",
+  "sdk_version": "0.46.1",
+  "coin_type": 118,
+  "min_tx_fee": 8000,
+  "addr_prefix": "testcore1",
+  "logo": "/logos/core.jpg",
+  "assets": [
+    {
+      "base": "utestcore",
+      "symbol": "testcore",
+      "exponent": 6,
+      "coingecko_id": "",
+      "logo": "/logos/core.jpg"
+    }
+  ]
+}

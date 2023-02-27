@@ -1,0 +1,15 @@
+{
+    "chain_name": "crowd",
+    "api": ["https://api.crowd.ppnv.space"],
+    "rpc": ["http://rpc.crowd.ppnv.space:18657"],
+    "coin_type": 118,
+    "min_tx_fee": 200,
+    "addr_prefix": "Cardchain",
+    "logo": "/logos/CROWDCONTROL.png",
+    "assets": [{
+        "base": "ubpf",
+        "symbol": "BPF",
+        "exponent": 6,
+        "logo": "/logos/CROWDCONTROL.png"
+    }]
+}

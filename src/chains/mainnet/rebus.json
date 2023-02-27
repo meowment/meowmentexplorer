@@ -1,0 +1,20 @@
+{
+    "chain_name": "rebus",
+    "coingecko": "",
+    "api": "https://api.rebus.ppnv.space",
+    "rpc": "http://rpc.rebus.ppnv.space:26657",
+    "snapshot_provider": "",
+    "sdk_version": "0.45.6",
+    "coin_type": 60,
+    "min_tx_fee": 3000000000000000,
+    "addr_prefix": "rebus",
+    "logo": "/logos/rebus.png",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "assets": [{
+        "base": "arebus",
+        "symbol": "rebus",
+        "exponent": 18,
+        "coingecko_id": "rebus",
+        "logo": "/logos/rebus.png"
+    }]
+}

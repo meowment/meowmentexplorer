@@ -1,0 +1,15 @@
+{
+    "chain_name": "nolus",
+    "api": ["https://api.nolus.ppnv.space"],
+    "rpc": ["http://rpc.nolus.ppnv.space:34657"],
+    "coin_type": 118,
+    "min_tx_fee": 200,
+    "addr_prefix": "unls",
+    "logo": "/logos/vhK_6xp-_400x400.jpg",
+    "assets": [{
+        "base": "unls",
+        "symbol": "nls",
+        "exponent": 6,
+        "logo": "/logos/vhK_6xp-_400x400.jpg"
+    }]
+}

@@ -1,0 +1,19 @@
+{
+    "chain_name": "Defund",
+    "coingecko": "",
+    "api": ["https://api.defund.ppnv.space"],
+    "rpc": ["http://rpc.defund.ppnv.space:42657"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.10",
+    "coin_type": 118,
+    "min_tx_fee": 5000,
+    "addr_prefix": "defund",
+    "logo": "/logos/defund.jpg",
+    "assets": [{
+        "base": "ufetf",
+        "symbol": "FETF",
+        "exponent": 6,
+        "coingecko_id": "",
+        "logo": "/logos/defund.jpg"
+    }]
+}

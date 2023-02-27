@@ -1,0 +1,17 @@
+{
+    "chain_name": "pylons",
+    "api": "https://api.pylons.ppnv.space", 
+    "rpc": "http://rpc.pylons.ppnv.space:12657",
+    "sdk_version": "0.46.1",
+    "coin_type": 118,
+    "min_tx_fee": 800,
+    "assets": [{
+        "base": "UBEDROCK",
+        "symbol": "BEDROCK",
+        "exponent": 6,
+        "coingecko_id": "pylons", 
+        "logo": "/logos/pylons.png"
+    }],
+    "addr_prefix": "pylonsd",
+    "logo": "/logos/pylons.png"
+}

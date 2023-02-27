@@ -1,0 +1,15 @@
+{
+    "chain_name": "humans",
+    "api": ["https://api.humans.ppnv.space"],
+    "rpc": ["http://rpc.humans.ppnv.space:30657"],
+    "coin_type": 118,
+    "min_tx_fee": 200,
+    "addr_prefix": "uheart",
+    "logo": "/logos/E2MgZxkC_400x400.jpg",
+    "assets": [{
+        "base": "uheart",
+        "symbol": "heart",
+        "exponent": 6,
+        "logo": "/logos/E2MgZxkC_400x400.jpg"
+    }]
+}

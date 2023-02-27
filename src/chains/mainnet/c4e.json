@@ -1,0 +1,15 @@
+{
+    "chain_name": "C4E",
+    "api": ["https://api.c4e.ppnv.space"],
+    "rpc": ["http://rpc.c4e.ppnv.space:13657"],
+    "coin_type": 118,
+    "min_tx_fee": 200,
+    "addr_prefix": "cre",
+    "logo": "/logos/c4e.jpg",
+    "assets": [{
+        "base": "uc4e",
+        "symbol": "c4e",
+        "exponent": 6,
+        "logo": "/logos/c4e.jpg"
+    }]
+}

@@ -1,0 +1,27 @@
+{
+  "chain_name": "Nibiru",
+  "api":["https://api.nibiru.ppnv.space"],
+  "rpc":["http://rpc.nibiru.ppnv.space:27657"],
+  "snapshot_provider": "",
+  "sdk_version": "0.46.0",
+  "coin_type": 118,
+  "min_tx_fee": 5000,
+  "assets": [
+    {
+      "base": "unibi",
+      "symbol": "NIBI",
+      "exponent": 6,
+      "coingecko_id": "",
+      "logo": "/logos/OyWtRrNP_400x400.jpg"
+    },
+    {
+      "base": "unusd",
+      "symbol": "NUSD",
+      "exponent": 6,
+      "coingecko_id": "",
+      "logo": ""
+    }
+  ],
+  "addr_prefix": "nibi",
+  "logo": "/logos/OyWtRrNP_400x400.jpg"
+}

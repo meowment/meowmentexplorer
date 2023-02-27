@@ -1,0 +1,19 @@
+{
+    "chain_name": "Lambda",
+    "api": "https://api.lambda.ppnv.space",
+    "rpc": "http://rpc.lambda.ppnv.space:11657",
+    "snapshot_provider": "",
+    "sdk_version": "0.45.6",
+    "coin_type": 60,
+    "min_tx_fee": "3000000000000000",
+    "addr_prefix": "lamb",
+    "logo": "/logos/lambda.jpg",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "assets": [{
+        "base": "ulamb",
+        "symbol": "LAMB",
+        "exponent": 18,
+        "coingecko_id": "lambda",
+        "logo": "/logos/lambda.jpg"
+    }]
+}

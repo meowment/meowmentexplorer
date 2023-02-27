@@ -1,0 +1,18 @@
+{
+  "chain_name": "nois",
+    "api": "https://api.nois.ppnv.space",
+    "rpc": "http://rpc.nois.ppnv.space:17657",
+  "sdk_version": "0.45.5",
+  "coin_type": 118,
+  "addr_prefix": "nois",
+  "min_tx_fee": 5000,
+  "logo": "/logos/Nois.png",
+  "assets": [
+    {
+      "symbol": "NOIS",
+      "base": "unois",
+      "exponent": 6,
+      "logo": "/logos/Nois.png"
+    }
+  ]
+}

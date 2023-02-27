@@ -1,0 +1,20 @@
+{
+  "chain_name": "dymension",
+  "coingecko": "",
+  "api": "https://api.dymension.ppnv.space",
+  "rpc": "http://rpc.dymension.ppnv.space:45657",
+  "sdk_version": "0.46.1",
+  "coin_type": 118,
+  "min_tx_fee": 8000,
+  "addr_prefix": "dym",
+  "logo": "/logos/dym.jpg",
+  "assets": [
+    {
+      "base": "UDYM",
+      "symbol": "DYM",
+      "exponent": 6,
+      "coingecko_id": "",
+      "logo": "/logos/dym.jpg"
+    }
+  ]
+}
