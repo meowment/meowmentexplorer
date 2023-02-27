@@ -3,20 +3,22 @@
     <full-header />
     <b-link>
       <div class="d-flex justify-content-center align-items-center">
-        <vuexy-logo />
+        <!-- <vuexy-logo /> -->
+        <br>
+        <br><br>
         <h1
           class="text-primary display-4 font-weight-bolder d-none d-md-block"
         >
-          Meowment Planets Explorer<small class="flow-left">beta</small>
+          Meowment Planets Explorer<small class="flow-left">Beta</small>
         </h1>
       </div>
     </b-link>
 
-    <p class="mb-1">
-      Best Uptime 24/7 Monitoring | Stake and Earn with Meowment 🐈‍⬛
-    </p>
-    <h2 class="mb-3">
+    <!-- <p class="mb-1">
       COSMOS ECOSYSTEM BLOCKCHAINS #IBCGANG ⚛️
+    </p> -->
+    <h2 class="mb-3">
+      Best Uptime 24/7 Monitoring | Stake and Earn with Meowment 🐈‍⬛
     </h2>
 
     <div>
