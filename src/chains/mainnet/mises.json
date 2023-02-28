@@ -1,0 +1,18 @@
+{
+    "chain_name": "mises",
+    "coingecko": "",
+    "api": "https://api.mises.meowment.xyz",
+    "rpc": "http://rpc.mises.meowment.xyz",
+    "sdk_version": "0.45.6",
+    "coin_type": 118,
+    "min_tx_fee": 500,
+    "addr_prefix": "mises",
+    "logo": "/logos/mises.jpg",
+    "assets": [{
+        "base": "umis",
+        "symbol": "MISES",
+        "exponent": 6,
+        "coingecko_id": "",
+        "logo": "/logos/mises.jpg"
+    }]
+}
