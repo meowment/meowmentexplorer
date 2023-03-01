@@ -7,7 +7,7 @@
         <h1
           class="text-primary display-4 font-weight-bolder d-none d-md-block"
         >
-         <img src="assets/favicon.ico" >Explorer< <small class="flow-left">meowmeow</small>
+         <img src="assets/favicon.ico" <small class="flow-left">meowmeow</small>
         </h1>
       </div>
     </b-link>
