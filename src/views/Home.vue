@@ -5,9 +5,9 @@
       <div class="d-flex justify-content-center align-items-center">
         <vuexy-logo />
         <h1
-          class="text-primary display-4 font-weight-bolder d-none d-md-block"
+          class="text-dark display-4 font-weight-bolder d-none d-md-block"
         >
-         <img src="assets/favicon.ico" <small class="flow-left">meowmeow</small>
+          Meowment Planets Explorer<small class="flow-left">meowmeow</small>
         </h1>
       </div>
     </b-link>
