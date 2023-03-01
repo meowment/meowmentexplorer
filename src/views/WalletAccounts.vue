@@ -2,7 +2,7 @@
   <div class="text-center">
     <b-card
       v-if="calculateTotalChange !== 0"
-      border-variant="primary"
+      border-variant="dark"
     >
       <b-row class="mx-0 d-flex align-items-center">
         <b-col
@@ -13,7 +13,7 @@
             :text="`Currency: ${currency2.toUpperCase()}`"
             size="sm"
             class="text-uppercase"
-            variant="primary"
+            variant="dark"
           >
             <b-dropdown-item @click="setCurrency('usd')">
               USD
@@ -139,7 +139,7 @@
                       <b-avatar
                         :src="acc.logo"
                         size="28"
-                        variant="light-primary"
+                        variant="dark"
                         rounded
                       />
                       <div class="text-right">
