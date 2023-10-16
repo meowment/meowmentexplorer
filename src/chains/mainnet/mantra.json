@@ -1,7 +1,7 @@
 {
     "chain_name": "mantra",
-    "api":["https://testnet-mantra-rpc.konsortech.xyz", "https://api-t.mantra.nodestake.top"],
-    "rpc":["https://testnet-mantra-rpc.konsortech.xyz", "https://api-t.mantra.nodestake.top"],
+    "api":["https://api-t.mantra.nodestake.top"],
+    "rpc":["https://api-t.mantra.nodestake.top", "https://testnet-mantra-rpc.konsortech.xyz"],
     "snapshot_provider": "",
     "sdk_version": "0.47.4",
     "coin_type": "118",
